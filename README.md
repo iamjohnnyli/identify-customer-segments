@@ -32,6 +32,8 @@ The data files associated with this project (not included in this repository):
 
 ## Conclusion
 
+![Figure 1. Proportions per cluster for general vs customer.](img/Figure1.png)
+
 Cluster 2 is overrepresented, and cluster 3 is underrepresented. Compare two groups of diagrams, we can find that there are many differences in demographics between overrepresented and underrepresented people. 
 
 - Membership in Green Avantgarde: In cluster 2, more people are the member of Green Avantgarde
